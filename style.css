@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#background{
+    width: 970px;
+    /* height: 1000px; */
+    background-color: #4a373f;
+    margin: 0px auto;
+    /* padding: 10px; */
+ }
+
+ #header{
+    width: 954px;
+    height: 50px;
+    background-color: #f7f7f7;
+    padding: 8px;
+    margin-bottom: 15px;
+    }
+    h1{
+        font-family: sans-serif;
+        margin-top: 10px;
+    }
+   
+#imagebox{
+    height: 242px;
+    width: 366px;
+    /* outline: 1px dotted yellow; */
+    background-color: #c0c0c0;
+    margin-left: 15px;
+    margin-right: 15px;
+   
+    padding: 4px;
+    display: inline-block;
+    
+}
+#imagebox img {
+    width: 365px;
+}
+#aboutbox{
+    height: 249px;
+    width: 545px;
+    /* outline: 1px dotted yellow; */
+    display: inline-block;
+    background: linear-gradient(to right, #fefdfe,#dbcdda);
+    
+    vertical-align: top;
+}
+h2{
+   padding-left: 8px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+    background: linear-gradient(#8a8896,#b4b4b8);
+    color: white;
+}
+#lamode{
+    height: 600px;
+    width:300px;
+    /* outline: 1px dotted yellow;  */
+    margin: 15px;
+    display: inline-block;
+    background: linear-gradient(to right, #fefdfe,#dbcdda);
+    vertical-align: top;
+}
+.text{
+    height: 130px;
+    width: 300px;
+    padding: 10px;
+}
+#familybox{
+    
+        height: 600px;
+        width:300px;
+        
+        margin: 15px;
+        margin-left: 0px;
+        display: inline-block;
+        background: linear-gradient(to right, #fefdfe,#dbcdda);
+        vertical-align: top;
+}
+#five{
+    height: 600px;
+    width:300px;
+    /* outline: 1px dotted yellow;  */
+    margin: 15px;
+    margin-left: 0px;
+    display: inline-block;
+    background: linear-gradient(to right, #fefdfe,#dbcdda);
+}
+.contentimg{
+    width: 300px;
+}
+
+#five p{
+    margin: 35;
+}
+#footer{
+    width: 954px;
+    height: 50px;
+    background-color: #f7f7f7;
+    padding: 8px;
+    margin-bottom: 15px;
+    }
+.logos{
+   margin-left: 9px;
+   margin-top: 9px;
+
+    width: 45px;
+    height: 45px;
+    }
+button{
+    
+    display: block;
+    margin: 15px auto;
+    background: #407d61;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: white;
+}
+.contacts{
+    text-align: center;
+}
+.social{
+    width: 20px;
+   
+  
+    display: inline-block;
+}
+p{
+    display: block;
+}
